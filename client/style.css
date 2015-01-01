@@ -1,0 +1,22 @@
+
+tr {
+  font-family: Century;
+  font-size: 12px;
+}
+
+table{
+  background-color: lightblue;
+  padding: 7px;
+  border-style: groove;
+  border-color: #66CCFF #000099;
+  border-width: 5px;
+}
+
+h1{
+  font-family: Century;
+  color: #66CCFF;
+}
+
+.artist{
+ font-weight: bold;
+}
